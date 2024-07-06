@@ -1,0 +1,13 @@
+body{
+    font-family: "Trirong", serif;
+}
+    
+h1{
+    font-size: 40px;
+}
+.name{
+color: orange;
+}
+#dep{
+    width: 25px;
+}
